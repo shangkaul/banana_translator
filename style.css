@@ -1,0 +1,45 @@
+#translate_btn{
+    padding: 2rem;
+    font-size: 2rem;
+    margin-left: 2rem;
+
+}
+
+main{
+    max-width:  800px;
+    font-family: sans-serif;
+    margin: auto;
+}
+textarea{
+    width: 100%;
+    border: 1px solid black;
+    height: 4rem;
+    font-size: 1.2rem;
+    padding: 1rem;
+    margin: 2rem;
+}
+
+.header{
+    padding: 1rem;
+text-align: center;
+top: 0;
+height: 3rem;
+font-size: 2rem;
+background-color: purple;
+color: white;
+width: 100%;
+font-family: sans-serif;
+font-weight: 600;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    height: 6rem;
+    background-color: purple;
+    color: white;
+    width: 100%;
+}
+body{
+    margin: 0;
+}
